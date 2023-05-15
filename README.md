@@ -1,4 +1,4 @@
-![MasterHead]([https://i.pinimg.com/originals/53/f6/29/53f629645db94c3069ebf60cb5a76e69.gif])
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 
 
 
