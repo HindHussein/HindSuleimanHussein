@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.vox-cdn.com/thumbor/0AnrHamN46EqpzPyunj8SMSjYD8=/0x0:480x270/1400x933/filters:focal(202x97:278x173):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72170232/lofiboygif.6.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hindsuleimanhussein&label=Profile%20views&color=0e75b6&style=flat" alt="hindsuleimanhussein" /> </p>
-
 - 🌐📲 I’m currently working on **developing an App and Web Pages**
 
 - 💻 I’m currently learning **Mobile App and Web Development**
