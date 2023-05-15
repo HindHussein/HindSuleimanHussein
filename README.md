@@ -1,6 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/73/89/7f/73897f4a332fb7babec8d46331abab25.gif))]
-
-
+![MasterHead](https://i.pinimg.com/originals/73/89/7f/73897f4a332fb7babec8d46331abab25.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hindsuleimanhussein&label=Profile%20views&color=0e75b6&style=flat" alt="hindsuleimanhussein" /> </p>
 
