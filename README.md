@@ -1,12 +1,10 @@
-![MasterHead](https://i.pinimg.com/originals/73/89/7f/73897f4a332fb7babec8d46331abab25.gif)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hindsuleimanhussein&label=Profile%20views&color=0e75b6&style=flat" alt="hindsuleimanhussein" /> </p>
-
 - 🌐📲 I’m currently working on **developing an App and Web Pages**
 
 - 💻 I’m currently learning **Mobile App and Web Development**
 
 - 💬 Ask me about **Java and HTML**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hindsuleimanhussein&label=Profile%20views&color=0e75b6&style=flat" alt="hindsuleimanhussein" /> </p>
 
 - 📧 How to reach me **hind.suleimanh@gmail.com**
 
