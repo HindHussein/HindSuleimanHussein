@@ -1,8 +1,8 @@
-- 🌐📲 I’m currently working on **developing an App and Web Pages**
+- 🌐📲 I’m currently working on **developing an App**
 
 - 💻 I’m currently learning **Mobile App and Web Development**
 
-- 💬 Ask me about **Java and HTML**
+- 💬 Ask me about **Java, HTML, PHP, and CSS**
 
 - 📧 How to reach me **hind.suleimanh@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hindsuleimanhussein&label=Profile%20views&color=0e75b6&style=flat" alt="hindsuleimanhussein" /> </p>
