@@ -1,6 +1,6 @@
-- 🌐📲 I’m currently working on **developing an App**
+- 🌐📲 I’m currently learning to **develop IOS Apps**
 
-- 💻 I’m currently learning **Mobile App and Web Development**
+- 💻 I’m currently learning **Mobile App Development**
 
 - 💬 Ask me about **Java, HTML, PHP, and CSS**
 
