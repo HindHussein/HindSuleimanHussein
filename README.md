@@ -1,4 +1,4 @@
-- 📲 I’m currently an **IOS App Developer Itern** 
+- 📲 I’m currently an **IOS App Developer Intern** 
 
 - 💻 I’m currently learning **Mobile App and Web Development**
 
