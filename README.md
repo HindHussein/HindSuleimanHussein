@@ -1,8 +1,8 @@
-- 🌐📲 I’m currently learning to **develop IOS Apps**
+- 📲 I’m currently an **IOS App Developer Itern** 
 
-- 💻 I’m currently learning **Mobile App Development**
+- 💻 I’m currently learning **Mobile App and Web Development**
 
-- 💬 Ask me about **Java, HTML, PHP, and CSS**
+- 💬 Ask me about **Java, Android Studio, and Swift**
 
 - 📧 How to reach me **hind.suleimanh@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hindsuleimanhussein&label=Profile%20views&color=0e75b6&style=flat" alt="hindsuleimanhussein" /> </p>
