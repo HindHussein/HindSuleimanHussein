@@ -1,3 +1,4 @@
+
 - 📲 I’m currently an **IOS App Developer Intern** 
 
 - 💻 I’m currently learning **Mobile App and Web Development**
@@ -50,8 +51,8 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hindsuleimanhussein&show_icons=true&locale=en&layout=compact" alt="hindsuleimanhussein" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hindsuleimanhussein&theme=rose&show_icons=true&locale=en&layout=compact" alt="hindsuleimanhussein" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindsuleimanhussein&show_icons=true&locale=en" alt="hindsuleimanhussein" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindsuleimanhussein&show_icons=true&theme=rose&locale=en" alt="hindsuleimanhussein" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hindsuleimanhussein&" alt="hindsuleimanhussein" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hindsuleimanhussein&theme=rose" alt="hindsuleimanhussein" /></p>
