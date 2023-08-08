@@ -1,3 +1,4 @@
+## **About me**
 
 - 📲 I’m currently an **IOS App Developer Intern** 
 
@@ -5,15 +6,10 @@
 
 - 💬 Ask me about **Java, Android Studio, and Swift**
 
-- 📧 How to reach me **hind.suleimanh@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hindsuleimanhussein&label=Profile%20views&color=0e75b6&style=flat" alt="hindsuleimanhussein" /> </p>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hind-suleiman-475488239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hind-suleiman-475488239" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+<br>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -50,9 +46,22 @@
   </a>
 </p>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hindsuleimanhussein&theme=rose&show_icons=true&locale=en&layout=compact" alt="hindsuleimanhussein" /></p>
 
+<br>
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="25"><b> My Status:</b>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindsuleimanhussein&show_icons=true&theme=rose&locale=en" alt="hindsuleimanhussein" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hindsuleimanhussein&theme=rose" alt="hindsuleimanhussein" /></p>
+
+
+## <b> Let's Connect..!</b>
+
+<br>
+
+<p align="=left">
+        <a href="https://linkedin.com/in/hind-suleiman-475488239"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+        <a href="mailto:hind.suleimanh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+        </a>
+</p>
