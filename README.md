@@ -2,8 +2,6 @@
 
 - 📲 I’m currently an **IOS Developer Intern** 
 
-- 💻 I’m currently learning **Mobile App and Web Development**
-
 - 💬 Ask me about **Java, Android Studio, and Swift**
 
 <br>
