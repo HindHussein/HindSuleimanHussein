@@ -1,8 +1,8 @@
 ## **About me**
 
-- 📲 I’m currently an **IOS Developer Intern** 
+- 📲 I’m currently a **Fourth Year Comp Sci Student** 
 
-- 💬 Ask me about **Java, Android Studio, and Swift**
+- 💬 Ask me about **Java, Android Studio, Swift, and AI**
 
 <br>
 
