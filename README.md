@@ -2,7 +2,7 @@
 
 - 📲 I’m currently a **Fourth Year Comp Sci Student** 
 
-- 💬 Ask me about **Java, Android Studio, Swift, and AI**
+- 💬 Ask me about **Java, Android Studio, and AI**
 
 <br>
 
