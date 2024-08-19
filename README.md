@@ -1,6 +1,6 @@
 ## **About me**
 
-- 📲 I’m currently a **Fourth Year Comp Sci Student** 
+- 📲 I’m currently a **Software Engineer** 
 
 - 💬 Ask me about **Java, Android Studio, and AI**
 
